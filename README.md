@@ -13,4 +13,4 @@ En este curso vemos de todo:
 *Trucos muy locos del profesor
 *Las personalidades multiples de Freddy
 
-Y como recordatorio:**Este readme.md es un chiste**. Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES ENSERIO y mejor ve [a ver el curso](https:**platzi.com/curso/git-github/"a ver el curso")
+Y como recordatorio:**Este readme.md es un chiste**. Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES ENSERIO y mejor ve [**a ver el curso**](https:**platzi.com/curso/git-github/"a ver el curso")
